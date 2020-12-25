@@ -10,6 +10,9 @@ This repo serves as my participation proof (with my solutions) and as an archive
 
 Below are links to scrims for each day with my solution as notes to those (a scrim is a screencast with a code editor )
 
-1. [Day 1](https://scrimba.com/scrim/co5db4025b34db715da919482) 🍬Candies - n children have got m pieces of candy. Determine how many pieces of candy will be eaten by all the children together without splitting individual candy. 
-2. [Day 2](https://scrimba.com/scrim/cobcf40c294b8875ce3ab5ca3) 🏦Deposit Profit - You've deposited a specific amount of dollars into your bank account. Each year your balance increases at the same growth rate. Find out how long it would take for your balance to pass a specific threshold.
-3. [Day 3](https://scrimba.com/scrim/cofe74f56bbf52f00275004e8) 🧚 Chunky Monkey - Split an array (first argument) into groups with the length of size  of the second argument and return a two-dimensional array.
+### [Day 1](https://scrimba.com/scrim/co5db4025b34db715da919482) 
+🍬Candies - n children have got m pieces of candy. Determine how many pieces of candy will be eaten by all the children together without splitting individual candy. 
+### [Day 2](https://scrimba.com/scrim/cobcf40c294b8875ce3ab5ca3) 
+🏦Deposit Profit - You've deposited a specific amount of dollars into your bank account. Each year your balance increases at the same growth rate. Find out how long it would take for your balance to pass a specific threshold.
+### [Day 3](https://scrimba.com/scrim/cofe74f56bbf52f00275004e8) 
+🧚 Chunky Monkey - Split an array (first argument) into groups with the length of size  of the second argument and return a two-dimensional array.
