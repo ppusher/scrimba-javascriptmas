@@ -28,13 +28,13 @@ Below are links to scrims for each day with my solution as notes to those (a scr
 ### [Day 6](https://scrimba.com/scrim/co45849e0bc76f8732f1455d5)
 📏 Sort By Length - Given an array of strings, sort them in order of increasing lengths.
 
-### [Day 7]https://scrimba.com/scrim/co8ec4272a51b46e7fb754ee2)
+### [Day 7](https://scrimba.com/scrim/co8ec4272a51b46e7fb754ee2)
 🆎 Count Vowel Consonant - Given a string s, return the sum of all letters in the input string. Each vowel is given a value of 1 and consonants are given a value of 2.
 
 ### [Day 8](https://scrimba.com/scrim/co9f54080a86f44a1e7b55265)
 🎲 The Rolling Dice - A casino has asked you to make an online six faced dice that works just like it would in real life. When the user clicks the dice on the screen, the dice is expected to show one of the faces randomly.
 
-### [Day 9]()https://scrimba.com/scrim/co71c43b9804e1fd46e1d2711
+### [Day 9](https://scrimba.com/scrim/co71c43b9804e1fd46e1d2711)
 🔢 Sum Odd Fibonacci Numbers - Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
 ### [Day 10](https://scrimba.com/scrim/co878477e9f2d2e72af9ca6b3)
 🔢 Adjacent Elements Product - Give an array of integers, find the pair of adjacent elements that has the largest product and return the product.
