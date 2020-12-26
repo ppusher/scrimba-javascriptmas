@@ -90,6 +90,6 @@ Below are links to scrims for each day with my solution as notes to those (a scr
 
 --- 
 **Pending :**
-- [] Finish your thoughts about lessons learnt
-- [] Logic behind the more difficult challenges
-- [] Other similar challenges
+- [ ] Finish your thoughts about lessons learnt
+- [ ] Logic behind the more difficult challenges
+- [ ] Other similar challenges
