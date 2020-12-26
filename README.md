@@ -6,6 +6,18 @@ From December 1st  until Christmas Eve 🎅🏻, small coding challenges were pr
 
 This repo serves as my participation proof (with my solutions) and as an archive of the 2020 #JavaScriptmas🎄 challenge. 
 
+### My Thoughts : 
+
+It forces the learner to code every day. Consistency is the key to learning, making a commitment to do that thing everyday helps retain it and build a muscle memory. Most of these challenges were very short, ranging anywhere from 5 minutes to 2 hours depending on your skill level. This made them less daunting to do every day but in return helped building a discpline to code every day.
+
+It also helps if you have community or a group of friends doing the same challenges. Scrimba has Discord channel and a dedicated channel for #JavaScriptmas where people shared their solutions and asked for help if needed. I was fortunate to have some people from the Scrimba community to discuss with me everyday about the solutions we came up with. By exchanging ideas and solutions we learnt from each other a lot. As I was also writing the code to discuss with my peers, it also added the benefit of communicating my ideas and logic with them. Sometimes its challenging to explain or understand the logic behind the code, by trying to explain or understand the logic we expand our perception towards the solution. Opens our mind with new ideas and new ways to tackle the same problem. 
+
+This challenge also helped me improve the way I write code,taught me to make it more reable and accessible.
+
+Doing this has inspired me to more such challenges, they are not only a tool towards building a good habit and discipline but also a good brain exercise. And I love solving puzzles, so theres that. 
+
+
+
 ---
 
 Below are links to scrims for each day with my solution as notes to those (a scrim is a screencast with a code editor )
@@ -74,3 +86,10 @@ Below are links to scrims for each day with my solution as notes to those (a scr
 
 ### [Day 24](https://scrimba.com/scrim/co45247eea16135e779a27ae3)
 🕹 Test Your Agility - Fix the test your agility game. 
+
+
+--- 
+**Pending :**
+- [] Finish your thoughts about lessons learnt
+- [] Logic behind the more difficult challenges
+- [] Other similar challenges
